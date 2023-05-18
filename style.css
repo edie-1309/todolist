@@ -11,8 +11,12 @@
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
+}
+
+.wrapper {
+    position: absolute;
+    top: 20%;
 }
 
 .header {
@@ -40,6 +44,7 @@ h2 {
     box-sizing: border-box;
     background-color: #FFEFD6;
     border-radius: 8px;
+    margin-bottom: 50px;
 }
 
 .add-list {
