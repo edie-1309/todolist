@@ -1,0 +1,3 @@
+# todolist
+
+Todolist app, program ini dibuat untuk mengasah skill javascript dom yang sudah saya pelajari.....
